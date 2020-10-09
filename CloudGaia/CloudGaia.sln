@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGaia", "CloudGaia.csproj", "{76E49098-4333-4C67-8768-13971EE103FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGaia2", "..\CloudGaia2\CloudGaia2.csproj", "{920194A4-0A58-4761-83BF-91FDADC8BDCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGaia3", "..\CloudGaia3\CloudGaia3.csproj", "{7F717638-8398-4916-B1C6-4BCF336BAEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E49098-4333-4C67-8768-13971EE103FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E49098-4333-4C67-8768-13971EE103FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E49098-4333-4C67-8768-13971EE103FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E49098-4333-4C67-8768-13971EE103FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920194A4-0A58-4761-83BF-91FDADC8BDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920194A4-0A58-4761-83BF-91FDADC8BDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920194A4-0A58-4761-83BF-91FDADC8BDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920194A4-0A58-4761-83BF-91FDADC8BDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F717638-8398-4916-B1C6-4BCF336BAEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F717638-8398-4916-B1C6-4BCF336BAEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F717638-8398-4916-B1C6-4BCF336BAEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F717638-8398-4916-B1C6-4BCF336BAEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FE221A-AC87-4FAB-B110-58F99CB3708B}
+	EndGlobalSection
+EndGlobal
